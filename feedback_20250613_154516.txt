@@ -1,0 +1,16 @@
+URL: URL: https://github.com/Walid75364/GenIA/blob/Bootcamp_Weeks/Week_1/Day_5/Mini_Project/game.py
+suggestions for improvement:
+- The `rock-paper-scissors.py` file is missing the functionality to track game results and print a summary as specified in the instructions.  It only allows for a single game to be played in each run. The `print_results` function is also not implemented.
+- The `rock-paper-scissors.py` file should incorporate a loop to allow multiple games and track wins, losses, and draws.  It should also display a menu with 'Play a new game', 'Show scores', and 'Quit' options.
+- The `get_user_menu_choice` function is missing from `rock-paper-scissors.py`, as specified in the instructions.
+Correctness: 80%
+-----
+URL: URL: https://github.com/Walid75364/GenIA/blob/Bootcamp_Weeks/Week_1/Day_5/Mini_Project/rock_paper_scissors.py
+suggestions for improvement:
+- The `rock-paper-scissors.py` file does not fully implement the requirements. It's missing the functionality to handle multiple games, track wins/losses/draws, and display a summary at the end.  It only allows for a single game per run.
+- The `game.py` file (not shown) is crucial and its absence prevents a complete evaluation of correctness.  The provided code only shows the menu structure, not the game logic.
+- The menu only offers 'Play a game' or 'Quit', not 'Show scores' as specified.
+- Error handling for invalid user input (other than '1' or '2') within the main game loop could be improved.  A more robust solution would handle non-numeric input or unexpected values.
+- Add comments to the `show_main_menu()` function explaining what each part of the code does.
+Correctness: 60%
+-----
