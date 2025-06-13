@@ -1,0 +1,8 @@
+URL: URL: https://github.com/Walid75364/GenIA/blob/Week_1/Week_1/Day_4/W1_D4_XP.ipynb
+suggestions for improvement:
+- In Exercise 1, the comments in the `Pets` and `Cat` classes could be improved for clarity and conciseness.  For example, instead of  `# Parcourt chaque animal dans la liste et affiche sa marche`, a simpler comment like `# Iterates through animals and prints their walk()` would suffice.
+- In Exercise 3, the `if __name__ == "__main__":` block is good practice for ensuring code only runs when the script is executed directly, not when imported as a module.  This should be added to other exercises for better modularity.
+- Consider adding docstrings to all classes and methods to further enhance readability and explain the purpose and usage of each.
+- In Exercise 4, while the code correctly implements the functionality, the hardcoded "Jane and John" in `check_majority` limits flexibility.  It could be improved by allowing the family to specify parent names during initialization.
+Correctness: 100%
+-----
