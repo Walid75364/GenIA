@@ -1,0 +1,8 @@
+URL: URL: https://github.com/Walid75364/GenIA/blob/Bootcamp_Weeks/Week_1/Day_3/ExercicesXP/W1_D3_XP.ipynb
+suggestions for improvement:
+- Exercise 1: The `find_oldest_cat` function is excellent and uses a concise lambda function for comparison.  However, the output string could be improved for clarity (e.g., explicitly mentioning the cat's name).
+- Exercise 2: The `Dog` class is well-structured. The `find_tallest` function is a good addition. However, the `print(davids_dog)` and `print(sarahs_dog)` statements in the class definition are unusual; it's better to call methods from outside the class definition.  Consider adding a `__str__` method to the `Dog` class for better object representation.
+- Exercise 3: The `Song` class and its `sing_me_a_song` method are perfectly implemented and fulfill the requirements.
+- Exercise 4: The `Zoo` class is well-implemented, correctly handling animal addition, removal, sorting, and grouping.  The code is clear and well-structured.  However, consider adding input validation (e.g., check if `animal_sold` exists before attempting removal) to enhance robustness and error handling.
+Correctness: 90%
+-----
